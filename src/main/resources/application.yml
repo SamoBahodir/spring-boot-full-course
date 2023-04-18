@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5433/eager
+    url: jdbc:postgresql://localhost:5433/web-socket
     username: postgres
     password: 1273
   jpa:

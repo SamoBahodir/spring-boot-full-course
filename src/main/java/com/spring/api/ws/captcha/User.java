@@ -1,4 +1,4 @@
-package com.spring.api.ws;
+package com.spring.api.ws.captcha;
 
 
 import lombok.Data;
@@ -7,7 +7,7 @@ import javax.persistence.*;
 
 @Data
 @Entity
-@Table(name = "users1")
+@Table(name = "users_captcha")
 public class User {
 
     @Id

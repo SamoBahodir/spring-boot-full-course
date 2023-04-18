@@ -1,4 +1,4 @@
-package com.spring.api.ws;
+package com.spring.api.ws.captcha;
 
 import java.util.List;
 import java.util.Optional;

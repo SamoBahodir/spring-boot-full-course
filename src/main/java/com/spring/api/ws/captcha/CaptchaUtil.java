@@ -1,4 +1,4 @@
-package com.spring.api.ws;
+package com.spring.api.ws.captcha;
 
 import java.io.ByteArrayOutputStream;
 import java.util.Base64;

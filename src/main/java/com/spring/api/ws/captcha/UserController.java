@@ -1,4 +1,4 @@
-package com.spring.api.ws;
+package com.spring.api.ws.captcha;
 
 import cn.apiclub.captcha.Captcha;
 import org.springframework.beans.factory.annotation.Autowired;

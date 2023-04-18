@@ -1,4 +1,4 @@
-package com.spring.api.ws;
+package com.spring.api.ws.captcha;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
